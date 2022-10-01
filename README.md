@@ -1,2 +1,3 @@
-# Keeper_App3
+A clone of A keeper app made with React.
 Created with CodeSandbox
+
